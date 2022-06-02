@@ -2,6 +2,7 @@ import io from "socket.io-client";
 import "./App.css";
 import { useState } from "react";
 import Chat from "./Chat";
+import React from "react";
 const socket = io.connect("http://localhost:3001");
 
 function App() {

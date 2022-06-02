@@ -82,8 +82,6 @@
 .chat-window .chat-body .message .message-content {
   width: auto;
   height: auto;
-  min-height: 40px;
-  max-width: 120px;
   background-color: #809A6F;
   border-radius: 5px;
   color: white;
